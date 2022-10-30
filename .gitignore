@@ -1,0 +1,7 @@
+.cache/
+build/
+vendor/*
+
+compile_commands.json
+
+!/**/.gitkeep
