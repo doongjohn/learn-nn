@@ -1,4 +1,4 @@
-# Perceptron
+# Learn neural network
 
 ## build
 
