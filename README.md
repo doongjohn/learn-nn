@@ -18,5 +18,5 @@ cmake --build build
 ## run
 
 ```bash
-./build/perceptron
+./build/neural_network
 ```
